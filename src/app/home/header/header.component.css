@@ -1,0 +1,33 @@
+.first {
+    min-height: 400px;
+    position: relative;
+    z-index: 10;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 60px;
+}
+
+/*
+.navbar{
+    top: -6rem;
+}*/
+.navbar-dark .navbar-toggler {
+    color: #fff;
+    border-color: transparent;
+}
+
+.first h1{
+    margin-top: 20rem;
+}
+
+.btn-action{
+    background: transparent !important;
+    border: 2px solid #fff !important;
+    border-radius: 5px !important;
+    width: 170px;
+    color: #ffffff !important;
+}
+
+.first .scroll{
+    margin-top: 5rem;
+}

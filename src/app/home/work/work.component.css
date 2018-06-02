@@ -1,0 +1,16 @@
+.work {
+    min-height: 400px;
+    position: relative;
+    z-index: 10;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 60px;
+}
+.work .title{
+    width: 20%;
+    height: 2px;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    margin: auto;
+}
